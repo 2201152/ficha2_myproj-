@@ -1,1 +1,2 @@
 console.log("Este é o exemplo de um ficheiro de texto file1")
+console.log("Estou a fazer alterações")
